@@ -66,7 +66,7 @@ def spider():
             if house.xpath('div[2]/div[3]/div/a[3]/text()'):
                 items.append(house.xpath('div[2]/div[3]/div/a[3]/text()')[0])
             # 获取价格
-            items.append(house.xpath('div[3]/p[1]/text()')[0])
+            items.append(house.xpath('string(div[3]/p[1])'))
             # 将爬取的数据写入csv文件
             write_data(items)
 

@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="795c0460-42fa-4686-abcd-04dcf9837772" name="Default Changelist" comment="" />
+    <list default="true" id="795c0460-42fa-4686-abcd-04dcf9837772" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-基础爬虫实例/document/image-20191226084731258.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-基础爬虫实例/document/image-20191226084956124.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-基础爬虫实例/src/qhouse_items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-基础爬虫实例/document/04-基础爬虫实例.md" beforeDir="false" afterPath="$PROJECT_DIR$/04-基础爬虫实例/document/04-基础爬虫实例.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-基础爬虫实例/src/houses_info-1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-基础爬虫实例/src/houses_info.csv" beforeDir="false" afterPath="$PROJECT_DIR$/04-基础爬虫实例/src/houses_info.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-基础爬虫实例/src/qhouse_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-基础爬虫实例/src/qhouse_base.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +25,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VBWOiWrGZvFHZzV1bPSnkWFJ44" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/04-基础爬虫实例/src" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -38,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.qhouse_base">
+  <component name="RunManager" selected="Python.qhouse_items">
     <configuration name="4.1 qfang" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python数据采集与清洗" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,27 +70,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/教学其他资料/教材资料/Python爬虫实例教程-代码/4.1 qfang.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="beautifulsoup_base" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python数据采集与清洗" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-网页解析基础/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-网页解析基础/src/beautifulsoup_base.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,6 +120,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="qhouse_items" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python数据采集与清洗" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04-基础爬虫实例/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04-基础爬虫实例/src/qhouse_items.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="re_exp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python数据采集与清洗" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.qhouse_items" />
         <item itemvalue="Python.qhouse_base" />
         <item itemvalue="Python.4.1 qfang" />
         <item itemvalue="Python.re_exp" />
         <item itemvalue="Python.beautifulsoup_selector" />
-        <item itemvalue="Python.beautifulsoup_base" />
       </list>
     </recent_temporary>
   </component>
@@ -166,5 +184,19 @@
       <updated>1576726938270</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
