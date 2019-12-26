@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="795c0460-42fa-4686-abcd-04dcf9837772" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-基础爬虫实例/document/image-20191226084731258.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-基础爬虫实例/document/image-20191226084956124.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-基础爬虫实例/src/qhouse_items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/04-基础爬虫实例/document/04-基础爬虫实例.md" beforeDir="false" afterPath="$PROJECT_DIR$/04-基础爬虫实例/document/04-基础爬虫实例.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-基础爬虫实例/src/houses_info-1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-基础爬虫实例/src/houses_info.csv" beforeDir="false" afterPath="$PROJECT_DIR$/04-基础爬虫实例/src/houses_info.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-基础爬虫实例/src/qhouse_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-基础爬虫实例/src/qhouse_base.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
