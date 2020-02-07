@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="795c0460-42fa-4686-abcd-04dcf9837772" name="Default Changelist" comment="" />
+    <list default="true" id="795c0460-42fa-4686-abcd-04dcf9837772" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/08-动态网页与应对反爬虫综合实例/document/image-20200207175716000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-动态网页与应对反爬虫综合实例/document/动态网页与应对反爬虫综合实例.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动态网页与应对反爬虫综合实例/src/test.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
