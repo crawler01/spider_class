@@ -2,10 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="795c0460-42fa-4686-abcd-04dcf9837772" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/08-动态网页与应对反爬虫综合实例/document/image-20200207175716000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-动态网页与应对反爬虫综合实例/document/动态网页与应对反爬虫综合实例.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/document/09-Scrapy爬虫框架基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/document/12983160-394d93c87390c455.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/document/12983160-796fd5bfb38a39ec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/document/image-20200209181531833.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/document/image-20200209181647468.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/document/image-20200209182127078.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/document/image-20200209182835511.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/document/image-20200209194944063.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/document/image-20200209195015701.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/document/image-20200209211920747.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/src/hello_scrapy/hello_scrapy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/src/hello_scrapy/hello_scrapy/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/src/hello_scrapy/hello_scrapy/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/src/hello_scrapy/hello_scrapy/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/src/hello_scrapy/hello_scrapy/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/src/hello_scrapy/hello_scrapy/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/src/hello_scrapy/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/src/spiders/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/src/spiders/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/src/spiders/spiders/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/src/spiders/spiders/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/src/spiders/spiders/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/src/spiders/spiders/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/src/spiders/spiders/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Scrapy爬虫框架基础/src/spiders/spiders/spiders/baidu.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-动态网页与应对反爬虫综合实例/src/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动态网页与应对反爬虫综合实例/document/08-动态网页与应对反爬虫综合实例.md" beforeDir="false" afterPath="$PROJECT_DIR$/08-动态网页与应对反爬虫综合实例/document/08-动态网页与应对反爬虫综合实例.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动态网页与应对反爬虫综合实例/document/动态网页与应对反爬虫综合实例.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动态网页与应对反爬虫综合实例/src/jobs.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +76,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lagou_spider">
+  <component name="RunManager" selected="Python.baidu">
     <configuration name="8.2 lagou" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python数据采集与清洗" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,6 +98,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="baidu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python数据采集与清洗" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09-Scrapy爬虫框架基础/src/spiders/spiders/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09-Scrapy爬虫框架基础/src/spiders/spiders/spiders/baidu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="lagou_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python数据采集与清洗" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,27 +132,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08-动态网页与应对反爬虫综合实例/src/lagou_spider.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="selenium_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python数据采集与清洗" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-动态网页的抓取/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-动态网页的抓取/src/selenium_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.baidu" />
         <item itemvalue="Python.lagou_spider" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.8.2 lagou" />
         <item itemvalue="Python.sina_weibo_spider" />
-        <item itemvalue="Python.selenium_demo" />
       </list>
     </recent_temporary>
   </component>
